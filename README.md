@@ -1,0 +1,1 @@
+A website built from scratch to follow the Odin course.
